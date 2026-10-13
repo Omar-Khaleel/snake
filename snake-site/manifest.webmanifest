@@ -1,0 +1,19 @@
+{
+  "name": "ثعبان نيون",
+  "short_name": "ثعبان",
+  "description": "لعبة ثعبان بتصميم نيون عصري — حركة ناعمة وتسارع مع كل أكلة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#06070e",
+  "theme_color": "#06070e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
